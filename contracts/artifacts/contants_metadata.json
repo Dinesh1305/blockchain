@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "num",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/constant.sol": "contants"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/constant.sol": {
+			"keccak256": "0xfb1554435765ca28c1c1b617da32ae914366830ba7d3b5f7aa81b2ae0a113256",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://900fc02a61ae373d7a3f65441222d9c61515b222dc0dd82e69d94f8f04faeb64",
+				"dweb:/ipfs/QmSUEUieLzUeB8283JLXcJfJM159pg6rBtjEVG9rzBWqqX"
+			]
+		}
+	},
+	"version": 1
+}
