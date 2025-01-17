@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "display",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/gobalvar.sol": "golbalvar"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/gobalvar.sol": {
+			"keccak256": "0xb5f0f9c542e2f98f357f8198051eb6b06b8c062faa99efe0653ee5db4d193da1",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://5dedbf9f171861d9cac4d063dcbe5bc6b2143e7e00cc994485b2fe3828ee69b7",
+				"dweb:/ipfs/QmYr1vqukFtyz2wtDLBzez8gvCUaUfb8wtmFg4jSZicFEA"
+			]
+		}
+	},
+	"version": 1
+}
